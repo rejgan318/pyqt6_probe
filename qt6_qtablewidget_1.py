@@ -3,8 +3,6 @@ Python GUI Development with PyQt6 & Qt Designer.
 02 - PyQt6 Widgets Introduction
 031 QTableWidget in PyQt6
 
-Reference Guide https://www.riverbankcomputing.com/static/Docs/PyQt6/
-Modules https://www.riverbankcomputing.com/static/Docs/PyQt6/module_index.html
 QTableWidget https://www.riverbankcomputing.com/static/Docs/PyQt6/api/qtwidgets/qtablewidget.html#
 
 Пример корявый. Модифицировал без использования sys
