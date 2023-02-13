@@ -1,8 +1,4 @@
 """
-<<<<<<< HEAD
-=======
-4
->>>>>>> origin/master
 Хабр https://habr.com/ru/company/skillfactory/blog/599599/
 Оигинал https://www.pythonguis.com/tutorials/pyqt6-signals-slots-events/
 """
@@ -32,10 +28,7 @@ class MainWindow(QMainWindow):
         self.n_times_clicked = 0
 
         self.setWindowTitle("My App")
-<<<<<<< HEAD
         # self.showMaximized()
-=======
->>>>>>> origin/master
 
         self.button = QPushButton("Press Me!")
         self.button.clicked.connect(self.the_button_was_clicked)
@@ -61,12 +54,9 @@ class MainWindow(QMainWindow):
 app = QApplication(sys.argv)
 
 window = MainWindow()
-<<<<<<< HEAD
 # window.show()
 # window.showMaximized()
 window.showFullScreen()
-=======
 window.show()
->>>>>>> origin/master
 
 app.exec()

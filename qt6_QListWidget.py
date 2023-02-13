@@ -5,7 +5,7 @@
 - installEventFilter - локальный обработчик событий. Здесь - клавиатуры. [Помогло](https://www.youtube.com/watch?v=2Q8X3aRKPmY)
 - keyPressEvent - закрыть окно, выйти из программы по Esc
 
-TODO set curent item in list to 0 on start
+TODO set current item in list to 0 on start
 """
 
 from PyQt6.QtWidgets import QApplication, QMainWindow, QVBoxLayout, QListWidget, QStatusBar, QLabel, QWidget, QLineEdit
@@ -27,8 +27,8 @@ class Window(QMainWindow):
         # self.lw.setCurrentItem(1)
         # локальный, привязанный только к одному виджету, обработчик событий.
         self.lw.installEventFilter(self)
-        # Заглушка для того, чтобы удостовериться, что в других полях не запускается обработчик клавиатуры
-        self.le = QLineEdit()
+        self.le = QLineEdit()   # Заглушка для того, чтобы удостовериться,
+                                # что в других полях не запускается обработчик клавиатуры
         self.text_info = QLabel("")     # динамически меняемое поле
         self.sb = QStatusBar(self)
         self.setStatusBar(self.sb)

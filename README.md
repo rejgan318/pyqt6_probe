@@ -25,5 +25,3 @@
 Пример Create file browser in python and Qt (PyQt5 or PySide2 QTreeView and QFileSystemModel) [Youtube](https://www.youtube.com/watch?v=4PkPezdpO90)
 Не до конца. Не стал делать обработку контекстного меню через правую кнопку. Хочется реализовать какой-то функционал
 через активацию-выбор элемента. Пока не знаю как повесить обработчик.
-
-### New
