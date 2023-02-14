@@ -2,7 +2,9 @@
 
 ## Полезные ссылки
 
-* Статья на Хабре [PyQt6 — полное руководство для новичков](https://habr.com/ru/company/skillfactory/blog/599599/). На самом деле не полное, только начало. Оригинал [здесь, English](https://www.pythonguis.com/tutorials/pyqt6-creating-your-first-window/) 
+* Статья на Хабре [PyQt6 — полное руководство для новичков](https://habr.com/ru/company/skillfactory/blog/599599/).  
+    [PyQt6 — полное руководство для новичков. Продолжение](https://habr.com/ru/company/skillfactory/blog/648845/)
+    Оригинал [здесь, English](https://www.pythonguis.com/tutorials/pyqt6-creating-your-first-window/)
 * Хороший учебник с примерами [pythonGUIS](https://www.pythonguis.com/pyqt6/)
 * [PySide documentation](https://srinikom.github.io/pyside-docs/)
 * [PyQt Documentation » Reference Guide](https://www.riverbankcomputing.com/static/Docs/PyQt6/index.html)
@@ -11,6 +13,8 @@
 * [Qt Documentation](https://doc.qt.io/qt-6/classes.html) - офф сайт, C++, но полно и подробно. Много [примеров](https://doc.qt.io/qt-6/qtexamplesandtutorials.html) с файлами QtDesigner
 * Create file browser in python and Qt (PyQt5 or PySide2 QTreeView and QFileSystemModel) [Youtube](https://www.youtube.com/watch?v=4PkPezdpO90)
 * PyQt examples 2022 [Github](https://github.com/pyqt/examples)
+* Круто, разнообразно, профессионально: **Jie Jenn** [learndataanalysis.org, PyQt6](https://learndataanalysis.org/category/python-tutorial/python-pyqt5/), [Youtube](https://www.youtube.com/@jiejenn)
+
 
 ### qt6_first_app.py
 Простейший пример из учебника pythonGUIS

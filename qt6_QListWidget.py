@@ -5,6 +5,8 @@
 - installEventFilter - локальный обработчик событий. Здесь - клавиатуры. [Помогло](https://www.youtube.com/watch?v=2Q8X3aRKPmY)
 - keyPressEvent - закрыть окно, выйти из программы по Esc
 
+Для справки ссылка
+Старье, но подробно https://www.youtube.com/watch?v=mrBd2gFhVhk
 TODO set current item in list to 0 on start
 """
 
